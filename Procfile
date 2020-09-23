@@ -1,2 +1,2 @@
 release: bin/bash/release.sh
-web: node server/app.js
+web: node server/index.js
