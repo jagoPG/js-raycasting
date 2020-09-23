@@ -1,4 +1,4 @@
-# Pre 3D engine
+# js-raycasting
 Creating a 3D world illusion in a 2D canvas. 
 
 ## Tech Stack
